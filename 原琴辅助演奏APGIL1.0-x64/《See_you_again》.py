@@ -1,5 +1,5 @@
 import pyautogui,time
-s=0.15
+s=0.13
 #1
 pyautogui.press('g')
 time.sleep(s*2)
